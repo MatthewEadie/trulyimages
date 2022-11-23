@@ -13,3 +13,5 @@ const Progress = ({ percentage }) => (
         </div>
     </div>
 );
+
+export default Progress;

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import firebase,{firebaseui} from "../firebase/config";
-import StyledFirebaseAuth from 'react firebaseui/StyledFirebaseAuth'
+import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth'
 
 import Photos from "./Photos"
 import { render } from "@testing-library/react";
